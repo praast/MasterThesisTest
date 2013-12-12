@@ -1,0 +1,19 @@
+{
+	"features" : [
+		"Conjunctive",
+		"A",
+		"Al_so",
+		"B",
+		"C"
+	],
+	"roles": {
+		"testMethod": {
+			"Conjunctive": "testMethod__wrappee__Conjunctive",
+			"A": "testMethod__wrappee__A",
+			"Al_so": "testMethod__wrappee__Al_so",
+			"B": "testMethod__wrappee__B",
+			"C": "testMethod"
+		}
+	}
+
+}
